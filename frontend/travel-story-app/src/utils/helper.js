@@ -1,6 +1,6 @@
-import NO_SEARCH_DATA_IMG from 'https://ik.imagekit.io/Indhuja/assets/images/No_Search_Data_img.webp?updatedAt=1732689903877';
-import NO_FILTER_DATA_IMG from 'https://ik.imagekit.io/Indhuja/assets/images/No_Search_Data_img.webp?updatedAt=1732689903877';
-import ADD_STORY_IMG from 'https://ik.imagekit.io/Indhuja/assets/images/Logo.png?updatedAt=1732689903357';
+import NO_SEARCH_DATA_IMG from '../assets/images/No_Search_Data_img.webp';
+import NO_FILTER_DATA_IMG from '../assets/images/No_Search_Data_img.webp';
+import ADD_STORY_IMG from '../assets/images/Logo.png';
 
 export const validateEmail = (email) => {
     const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
