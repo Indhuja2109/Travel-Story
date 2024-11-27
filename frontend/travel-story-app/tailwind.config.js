@@ -18,8 +18,8 @@ export default {
       },
 
       backgroundImage:{
-        'login-bg-img':"url('./src/assets/images/bg-image1.png')",
-        'signup-bg-img':"url('./src/assets/images/signup-bg.png')"
+        'login-bg-img':"url('https://ik.imagekit.io/Indhuja/assets/images/bg-image1.png?updatedAt=1732689904218')",
+        'signup-bg-img':"url('https://ik.imagekit.io/Indhuja/assets/images/signup-bg.png?updatedAt=1732689903848')"
       }
     },
   },
